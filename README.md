@@ -1,3 +1,3 @@
-# Code Cracker Hubot for Slack
+# Brasil .NET Hubot for Slack
 
 Yep... that's it...
