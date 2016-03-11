@@ -1,5 +1,5 @@
 {
-  "name": "codecrackerslackhubot",
+  "name": "brasildotnetslackhubot",
   "version": "0.0.0",
   "private": true,
   "author": "Giovanni Bassi <giggio@giggio.net>",
@@ -7,7 +7,6 @@
   "dependencies": {
     "chrono-node": "^1.0.11",
     "coffee-script": "^1.10.0",
-    "githubot": "^1.0.0",
     "hubot": "^2.17.0",
     "hubot-azure-scripts": "^0.1.7",
     "hubot-business-cat": "^1.4.1",
